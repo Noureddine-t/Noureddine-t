@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://profile-counter.glitch.me/noureddine-t/count.svg?" />
+  <img src="https://views.gonzalohirsch.com/gh?user=noureddine-t" />
 </div>
 
 ##
