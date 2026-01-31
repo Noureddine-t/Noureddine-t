@@ -27,3 +27,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noureddine-t&layout=compact&theme=dark&hide_border=true&langs_count=10&card_width=400&cache_seconds=1800" alt="languages" />
   
 </div>
+
