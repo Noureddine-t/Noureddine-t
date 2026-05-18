@@ -1,9 +1,11 @@
+<!-- Profil views -->
 <div align="center">
   <img src="https://views.gonzalohirsch.com/gh?user=noureddine-t" />
 </div>
 
 ##
 
+<!-- Tech Stack -->
 <div align="center">
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DevOps &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Cloud Providers | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Backend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Database &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
@@ -18,13 +20,16 @@
 
 ##
 
+<!-- GitHub Stats -->
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=noureddine-t&show_icons=true&count_private=true&theme=dark&hide_border=true&cache_seconds=1800" height="150" alt="stats" />
-
+  <img src="https://github-readme-stats-eight-phi-81.vercel.app/api?username=noureddine-t&show_icons=true&count_private=true&theme=dark&hide_border=true&cache_seconds=1800" height="150" alt="GitHub Stats"/>
+ 
   <img src="https://streak-stats.demolab.com?user=noureddine-t&mode=daily&theme=dark&hide_border=true&border_radius=5&cache_seconds=1800" height="150" alt="streak stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noureddine-t&layout=compact&theme=dark&hide_border=true&langs_count=10&card_width=400&cache_seconds=1800" alt="languages" />
-  
+  <img src="https://github-readme-stats-eight-phi-81.vercel.app/api/top-langs/?username=noureddine-t&layout=compact&theme=dark&hide_border=true&langs_count=10&card_width=400&cache_seconds=1800" alt="Languages" />
 </div>
 
+##
+
+<!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/Noureddine-t/Noureddine-t/output/snake.svg" alt="Snake animation" />
